@@ -1,4 +1,4 @@
-# Review App
+# 🛒Review App
 
 A simple React app where users can submit and view reviews about their online shopping experiences. Reviews are saved in `localStorage` to persist between page reloads.
 
