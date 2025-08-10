@@ -1,12 +1,31 @@
-# React + Vite
+# Review App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple React app where users can submit and view reviews about their online shopping experiences. Reviews are saved in `localStorage` to persist between page reloads.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Setup Instructions
 
-## Expanding the ESLint configuration
+1. Clone the repository: `git clone <your-repo-url>`
+2. Install dependencies: `npm install`
+3. Start the app: `npm start`
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Time Taken
+
+Approximately 5 hours to design, implement, and style the application.
+
+---
+
+## Improvements (Optional)
+
+- Implement better validation and user feedback on the form.
+- Add pagination or infinite scroll for large numbers of reviews.
+- Use a backend or database for permanent storage.
+- Enhance UI/UX with animations and better responsiveness.
+- Add user authentication to personalize reviews.
+
+---
+
+Feel free to contribute or open issues for any improvements!
